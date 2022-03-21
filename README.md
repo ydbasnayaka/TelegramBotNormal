@@ -13,7 +13,7 @@ simple to use.
 
 Can be found on telegram as [Yasas Dananjaya](https://t.me/Yashdbasnayake).
 
-Kochu and I are moderating a [support group](https://t.me/shelbyfamilymovieshub), where you can ask for help setting up your
+Yasas and I are moderating a [support group](https://t.me/shelbyfamilymovieshub), where you can ask for help setting up your
 bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
 I'll also help when a database schema changes, and some table column needs to be modified/added. Note to maintainers that all schema changes will be found in the commit messages, and its their responsibility to read any new commits.
 
@@ -22,7 +22,7 @@ I'll also help when a database schema changes, and some table column needs to be
 Alternatively, [find me on telegram](https://t.me/Yashdbasnayake)! (Keep all support questions in the support chat, where more people can help you.)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ydbasnayaka/telegram_bot)<br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ydbasnayaka/TelegramBotNormal)<br>
 There is also a [tutorial video](https://youtu.be/wKL90i3cjPw) if you want any help on creating heroku clone.
 [![telegram badge](https://img.shields.io/badge/Support-Group-30302f?style=flat&logo=telegram)](https://https://t.me/shelbyfamilymovieshub)
 [![telegram badge](https://img.shields.io/badge/Update-Channel-30302f?style=flat&logo=telegram)](https://https://t.me/shelbyfamilymovieshub)
